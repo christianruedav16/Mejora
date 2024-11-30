@@ -307,7 +307,7 @@ font-size: 20px;
 
 .why-manita{
     margin-top: 60px;
-    display: grid;
+    display: flexbox;
     grid-template-columns: 80px auto;
     gap: 25px;
 
